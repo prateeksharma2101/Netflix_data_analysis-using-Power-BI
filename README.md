@@ -65,5 +65,5 @@ This project focuses on analyzing Netflix's content library using Power BI to un
 [View Project](https://github.com/prateeksharma2101/Netflix_data_analysis-using-Power-BI)
 
 **Prateek Sharma**  
-- Aspiring Data Analyst | SQL | Power BI | Python  
+- Data Analyst | SQL | Power BI | Python  
 - [LinkedIn](https://linkedin.com/in/prateek-sharma-584402b8)  
